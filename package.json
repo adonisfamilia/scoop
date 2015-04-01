@@ -1,0 +1,7 @@
+{
+  "name": "scoop",
+  "dependencies": {
+    "html-to-text": "^1.2.1",
+    "node-readability": "^1.0.1"
+  }
+}
